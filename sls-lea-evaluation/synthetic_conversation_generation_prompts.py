@@ -29,11 +29,11 @@ A sample output in JSON is as follows:
 """
 
 ######################## 
-# Knowledge Base System Prompt
+# Knowledge Base Generation System Prompt
 ######################## 
 # This prompt is used to generate a document based on a given topic. The system is instructed to create a full-length article that is informative and factual.
 
-knowledge_base_system_prompt_template = """
+knowledge_base_generation_prompt_template = """
 You are a document generator assistant. You have been asked to generate factual content for a topic. 
 Generate one document that encapsulates information about the topic. Here are the instructions:
 - The document should be informative and factual.
