@@ -1,14 +1,3 @@
-
-
-# This file contains the system prompts used in the SLS-LEA evaluation framework.
-# Each prompt is designed for a specific task, such as generating discussion topics, creating knowledge base documents, or evaluating the faithfulness of claims.
-# The prompts are structured to provide clear instructions to the AI model, ensuring that the generated content meets the requirements of the task.
-
-
-
-
-
-
 ######################## 
 # Faithfulness Detection System Prompt
 ######################## 
